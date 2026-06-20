@@ -24,3 +24,9 @@ Total Employees = COUNTROWS('EmpTable')
 Salary Efficiency = DIVIDE(SUM('EmpTable'[Annual Salary]), SUM('EmpTable'[Job Rate]), 0)
 
 Leave Intensity = AVERAGE('EmpTable'[Sick Leaves]) + AVERAGE('EmpTable'[Unpaid Leaves])
+
+##🔗 How to View
+
+Download the .pbix file.
+
+Open in Power BI Desktop
