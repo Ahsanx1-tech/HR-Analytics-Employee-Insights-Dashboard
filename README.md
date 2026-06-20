@@ -17,6 +17,12 @@ As a student at **FAST NUCES** and having recently completed my **Power BI Certi
 * **Version Control:** TMDL (Tabular Model Definition Language)
 * **UI/UX:** Neumorphic design with shadows and rounded corners for a 3D effect.
 
+## 🔗 How to View
+
+Download the .pbix file.
+
+Open in Power BI Desktop
+
 ## 📈 Featured DAX Measures
 ```dax
 Total Employees = COUNTROWS('EmpTable')
